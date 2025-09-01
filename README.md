@@ -16,3 +16,11 @@ Java (Core + JDBC)
 MySQL
 
 GitHub
+
+How to Run
+
+Import SQL file into MySQL.
+
+Change DB credentials in StudentDAO.java.
+
+Run Main.java.
